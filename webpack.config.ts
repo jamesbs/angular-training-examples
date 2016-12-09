@@ -63,5 +63,3 @@ const config =  {
 };
 
 module.exports = config;
-
-console.log('RULES!', config.module.rules);
